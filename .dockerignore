@@ -1,0 +1,7 @@
+env.ndjson
+.git
+node_modules
+vendor
+bin
+persistence
+Gemfile*
